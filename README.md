@@ -2,6 +2,10 @@
 This project is a recreation of the Microsoft homepage using HTML, CSS, and Tailwind CSS, serving as a practice exercise for design and coding proficiency enhancement.
 
 # Overview
+![image (1)](https://github.com/Onkar-Dhotarkar/FB_Login_Page-Clone/assets/142321110/4c6b2b4d-d6ab-4b66-8fbf-3a8413eb2fb3)
+
+https://github.com/Onkar-Dhotarkar/FB_Login_Page-Clone/assets/142321110/1c8e0056-36d7-477d-981b-a4f815788492
+
 The Microsoft homepage clone project aims to replicate the visual elements, layout, and design of the official Microsoft website using fundamental HTML and CSS, along with the powerful styling features of the Tailwind CSS framework.
 
 # Features
